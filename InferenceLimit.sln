@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferenceLimit", "InferenceLimit\InferenceLimit.csproj", "{41D9348D-B153-44DA-8FA4-B9978069402A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracy", "Tracy\Tracy.csproj", "{58587DA3-67BA-4ADD-81F6-263868487DF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41D9348D-B153-44DA-8FA4-B9978069402A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D9348D-B153-44DA-8FA4-B9978069402A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D9348D-B153-44DA-8FA4-B9978069402A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D9348D-B153-44DA-8FA4-B9978069402A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58587DA3-67BA-4ADD-81F6-263868487DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58587DA3-67BA-4ADD-81F6-263868487DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58587DA3-67BA-4ADD-81F6-263868487DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58587DA3-67BA-4ADD-81F6-263868487DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9C24840-A020-4469-ABF8-6CAA7ABF3376}
+	EndGlobalSection
+EndGlobal
